@@ -32,38 +32,6 @@
     "wegz_wel": "6561849391dd7cb9d85eb18a",
     "wegza": "62dc1a662ca35895b51afc14",
     "wegza_sahb": "6561a09b91dd7cb9d85f02fe",
-    "mondo45": "67f132c85491d6517bdea966",
-    "wegz_dj": "6561a09b91dd7cb9d85f02fe"
-  },
-  "points": {
-    "6561a09b91dd7cb9d85f02fe": 137,
-    "6561849391dd7cb9d85eb18a": 100,
-    "62dc1a662ca35895b51afc14": 79537
-  },
-  "role_expiries": {
-    "wegza": {
-      "vip": 1774864937,
-      "plus": 1774864944,
-      "elite": 1774864955
-    }
-  },
-  "last_daily": {},
-  "settings": {
-    "message_cooldown": 120,
-    "message_points": 4,
-    "presence_interval": 600,
-    "presence_points": 25,
-    "activity_timeout": 600,
-    "daily_reward": 30,
-    "shop_prices": {
-      "vip": 3000,
-      "plus": 6500,
-      "elite": 12000
-    },
-    "role_days": {
-      "vip": 7,
-      "plus": 7,
-      "elite": 7
-    }
+    "mondo45": "67f132c85491d6517bdea966"
   }
 }
